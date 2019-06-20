@@ -5,4 +5,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/syberia_lavender.mk
+    $(LOCAL_DIR)/aosp_lavender.mk
