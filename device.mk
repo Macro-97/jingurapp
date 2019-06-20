@@ -431,7 +431,7 @@ PRODUCT_PACKAGES += \
 
 # USB
 PRODUCT_PACKAGES += \
-    android.hardware.usb@1.0-service.lavender
+    android.hardware.usb@1.0-service
 
 # Vndk-sp
 PRODUCT_PACKAGES += \
