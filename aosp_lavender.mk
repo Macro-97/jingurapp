@@ -13,7 +13,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/product_launched_with_p.mk)
 $(call inherit-product, device/xiaomi/lavender/device.mk)
 
 # Inherit some common Syberia stuff.
-$(call inherit-product, vendor/aosp/config/common.mk)
+$(call inherit-product, vendor/aosp/config/common_full_phone.mk)
 #TARGET_BOOT_ANIMATION_RES_EVO := true
 #CUSTOM_BUILD_TYPE := OFFICIAL
 TARGET_GAPPS_ARCH := arm64
